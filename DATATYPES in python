@@ -1,0 +1,55 @@
+Data Types in Python:-
+.
+.
+1. Integer: Respresent integer no.
+It is immutable
+Ex.
+a=10 #Here is a stored with integer value 10 
+print (type(a)) #To get type of variable a
+output=<class ‘int’>
+As we received output as int it means the variable a is integer
+.
+.
+2. Float: Stores value in decimal
+It is Immutable
+Ex. 
+n=14.4 #Here n is stored with decimal value 14.4
+print(type(n)) 
+output=<class’float’>
+.
+.
+3. Boolean: Represents only Boolean value i.e. true or false 
+It is immutable
+Ex.
+Str=”555555”
+Print(isnummeric(str))
+OPT: True
+.
+.
+4. Complex: Represents complex no.
+It is immutable
+Ex:
+a=10+4j
+print(type(a))
+OPT:<class’complex’>
+.
+.
+5. String: string of character
+It is Immutable
+Ex.
+a=’SuS’
+print(type(a))
+output=<class’str’>
+.
+.
+6. None Type: have absent of value
+Ex.
+None
+.
+.
+7.List: An ordered mutable collection of element.
+Ex.
+My list=[14,4,3,6,9]
+Print(f’The list is – {my_list}’)
+OPT:
+The List is- [1
